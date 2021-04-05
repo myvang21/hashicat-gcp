@@ -1,0 +1,18 @@
+# Query: remote
+
+5 results - 5 files
+
+main.tf:
+  89:   provisioner "remote-exec" {
+
+exercises/main.tf.completed:
+  89:   provisioner "remote-exec" {
+
+exercises/main.tf.cowsay:
+  89:   provisioner "remote-exec" {
+
+exercises/main.tf.start:
+  89: #   provisioner "remote-exec" {
+
+exercises/remote_backend.tf:
+  6:   backend "remote" {
